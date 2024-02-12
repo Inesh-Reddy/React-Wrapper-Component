@@ -1,7 +1,5 @@
 
-
 function App() {
-
   return <div>
       <CardWrapper>
         Hey Inesh! <br />
@@ -21,7 +19,5 @@ function CardWrapper({children}){
     {children}
   </div>
 }
-
-
 
 export default App
